@@ -1,0 +1,11 @@
+{
+  "project_id": "HIM-16",
+  "title": "Attention Allocation Under Automated Decision Pressure",
+  "description": "Multi-system supervision and optimal attention switching strategies",
+  "lead_agent": "Experimental Designer",
+  "focus_area": "Attention allocation when AI decision speed exceeds human processing",
+  "status": "active",
+  "created": "2026-05-09",
+  "lab": "HumanJi Research Lab",
+  "pi": "Himanshu Mittal"
+}
