@@ -1,0 +1,28 @@
+======================================================================
+STATISTICAL ANALYSIS REPORT: HIM-16 Attention Allocation
+Generated: 2026-05-10 04:29:54
+======================================================================
+
+### Study 1: Mixed-Effects ANOVA
+
+Three-way mixed ANOVA: Strategy (3, between) × Complexity (3, within) × Error Profile (2, between)
+N = 252 participants
+
+Main effect of Strategy: F(2, 249) = 248.64, p < .001
+  Fixed-Schedule: M = 0.5078
+  Demand-Driven: M = 0.6507
+  Learned-ASAM: M = 0.7842
+
+Main effect of Complexity: F(2, 249) = 16.73, p < .001
+  2 systems: M = 0.7024
+  4 systems: M = 0.6538
+  6 systems: M = 0.5864
+
+Main effect of Error Profile: F(1, 250) = 10.88, p < .001
+  Heterogeneous profile lowers detection by ~0.056
+
+### Study 3: Field Study
+
+Pre-ASAM detection: 0.7327 (SD: 0.0597)
+Post-ASAM detection: 0.8273 (SD: 0.0649)
+Independent samples t-test: t(118) = -8.22, p < .001, Cohen's d = 1.517

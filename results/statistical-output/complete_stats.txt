@@ -1,0 +1,14 @@
+STATISTICAL ANALYSIS: HIM-16 Attention Allocation
+============================================================
+
+Study 1: Mixed ANOVA
+Strategy main effect: F(2,249) = 248.64, p < .001
+  Fixed-Schedule: M=0.5078
+  Demand-Driven: M=0.6507
+  Learned-ASAM: M=0.7842
+Complexity main effect: F(2,249) = 3.65, p < .001
+Error profile main effect: F(1,250) = 10.88, p < .001
+
+Study 3: Field ASAM impact
+  Pre-ASAM: 0.7327, Post-ASAM: 0.8273
+  t=-8.22, p<.001, Cohen's d=1.517
